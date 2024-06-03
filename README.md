@@ -47,9 +47,9 @@ This project aims to analyze the Diwali sales data to understand customer behavi
 - Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, are more likely to purchase products from Food, Clothing & Apparel, and Electronics & Gadgets categories.
 
 ## Future Work
-Perform predictive analysis to forecast future sales trends.
-Explore customer segmentation for targeted marketing campaigns.
-Analyze the impact of discounts and promotions on sales.
+- `Perform predictive analysis to forecast future sales trends.`
+- `Explore customer segmentation for targeted marketing campaigns.`
+- `Analyze the impact of discounts and promotions on sales.`
 
 ## Acknowledgments
 The dataset provider for supplying the data.
