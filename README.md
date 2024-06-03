@@ -51,6 +51,6 @@ Perform predictive analysis to forecast future sales trends.
 Explore customer segmentation for targeted marketing campaigns.
 Analyze the impact of discounts and promotions on sales.
 
-##Acknowledgments
+## Acknowledgments
 The dataset provider for supplying the data.
 Kaggle for hosting the dataset.
